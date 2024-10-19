@@ -1,6 +1,5 @@
-# Anime API 🎌📺
-
 ![Finalizado](https://img.shields.io/badge/Status-Finalizado-brightgreen)
+# Anime API 🎌📺
 
 ## Descrição do Projeto
 
